@@ -1,2 +1,1 @@
-
-This project has 10 mandatory tasks and 3 Advanced tasks
+0x01. C - Variables, if, else, while
