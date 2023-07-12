@@ -1,15 +1,14 @@
-#include <stdlib.h>
 #include "main.h"
-
+#include <stdlib.h>
 /**
- * argstostr - function concatenates all the arguments of your program.
- * @ac: pointer
- * @av: altura
+ * argstostr - main entry
+ * @ac: int input
+ * @av: double pointer array
  *
- * REturn: result
+ * return: 0
  */
 
-char *argstostr(int ac, char **av)
+char (int ac, char **av)
 {
 	int i = 0, j = 0, cont = 0;
 	char *result, *new;
